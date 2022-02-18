@@ -1,0 +1,11 @@
+commit c5760029d24787ef142bc7103f8e74416b2b69ce (HEAD -> master)
+Author: igor04s <igor4321erty@gmail.com>
+Date:   Fri Feb 18 09:50:02 2022 +0200
+
+    added the file gitHistory.txt
+
+commit dbfe767fe19e71937de5de56d496ace0b3189b0a
+Author: igor04s <igor4321erty@gmail.com>
+Date:   Thu Feb 17 21:31:26 2022 +0200
+
+    git objects description added
